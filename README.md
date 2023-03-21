@@ -1,6 +1,8 @@
 <div align="center">
+  
 [![Fakhirul Akmal (rul) logo](https://avatars.githubusercontent.com/fakhirula?size=200)](https://github.com/fakhirula "Rul's logo")
 ## [Fakhirul Akmal (rul)](https://www.linkedin.com/in/fakhirul-akmal/ "Fakhirul LinkedIn")
+
 </div>
 
 Assistant Lecture of Web Programming & Digital Literacy at STT Terpadu Nurul Fikri | Linux Enthusiast
