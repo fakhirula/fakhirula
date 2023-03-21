@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/fakhirula?size=100" alt="Fakhirul Akmal (rul) logo">
+  <img src="https://avatars.githubusercontent.com/fakhirula?size=150" alt="Fakhirul Akmal (rul) logo">
 </p>
 <h1 align="center"><a href="https://www.linkedin.com/in/fakhirul-akmal/">Fakhirul Akmal (Rul)</a></h1>
 
