@@ -14,10 +14,9 @@
   <img align="center" width="710px" src="https://github-profile-trophy.vercel.app/?username=fakhirula&column=8" alt="fakhirul's trophy stats"/>
 </a>
 </div>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=fakhirula)]
 
 ## Some of my Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=fakhirula)](https://github.com/fakhirula/github-profile-trophy)
 <p align=left> <img src=https://komarev.com/ghpvc/?username=fakhirula alt=fakhirula /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=fakhirula&show_icons=true&include_all_commits=true)](https://github.com/fakhirula/github-readme-stats)
