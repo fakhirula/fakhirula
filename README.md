@@ -1,8 +1,7 @@
 <div align="center">
-
 [![Fakhirul Akmal (rul) logo](https://avatars.githubusercontent.com/fakhirula?size=200)](https://github.com/fakhirula "Rul's logo")
-
 ## [Fakhirul Akmal (rul)](https://www.linkedin.com/in/fakhirul-akmal/ "Fakhirul LinkedIn")
+</div>
 
 Assistant Lecture of Web Programming & Digital Literacy at STT Terpadu Nurul Fikri | Linux Enthusiast
 - 🔭 I’m currently studying **Software Engineering** at STT Terpadu Nurul Fikri
@@ -12,11 +11,8 @@ Assistant Lecture of Web Programming & Digital Literacy at STT Terpadu Nurul Fik
 - 💬 I'm mostly active within the **LinkedIn**, **Facebook** and **Instagram** communities
 
 <a href="https://github.com/fakhirula">
-
-  <br><br>
   <img align="center" width="710px" src="https://github-profile-trophy.vercel.app/?username=fakhirula" alt="fakhirul's trophy stats"/>
 </a>
-</div>
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=fakhirula alt=fakhirula /> </p>
