@@ -10,8 +10,9 @@ Linux Enthusiast | Assistant Lecture of Web Programming & Digital Literacy at ST
 <div align="center">
     
 ## Fly Me to The Moon
-[![fakhirul Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=fff)](https://facebook.com/rul.haxor "Fakhirul's on Facebook")
-[![fakhirul Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=fff)](https://instagram.com/fakhirula "Fakhirul's on Instagram")
+[![fakhirul LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/fakhirul-akmal/ "Fakhirul's on LinkedIn")
+[![fakhirul Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=fff)](https://facebook.com/rul.haxor "Fakhirul's on Facebook")
+[![fakhirul Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=fff)](https://instagram.com/fakhirula "Fakhirul's on Instagram")
 <p align=center> <img src=https://komarev.com/ghpvc/?username=fakhirula&style=flat-square&color=green alt=fakhirula /> </p>
 <br>
 
