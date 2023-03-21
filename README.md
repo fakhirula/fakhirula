@@ -11,10 +11,10 @@
   <img align="center" width="710px" src="https://streak-stats.demolab.com/?user=fakhirula&theme=default&fire=2032f7&ring=2032f7&currStreakLabel=2032f7&sideNums=2032f7&" alt="rul's streak stats"/>
   <br><br>
   
-  <img align="center" width="710px" src="https://github-profile-trophy.vercel.app/?username=fakhirula&column=8" alt="fakhirul's trophy stats"/>
+  <img align="center" width="710px" src="https://github-profile-trophy.vercel.app/?username=fakhirula" alt="fakhirul's trophy stats"/>
 </a>
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=fakhirula)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=fakhirula)](https://github.com/fakhirula/github-profile-trophy)
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=fakhirula alt=fakhirula /> </p>
