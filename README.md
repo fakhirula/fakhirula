@@ -20,5 +20,5 @@ Assistant Lecture of Web Programming & Digital Literacy at STT Terpadu Nurul Fik
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=fakhirula&show_icons=true&include_all_commits=true" height="180" alt="GitHub stats"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=fakhirula&show_icons=true&include_all_commits=true" height="180" alt="Top Langs"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhirula&layout=compact" height="180" alt="Top Langs"  />
 </div>
