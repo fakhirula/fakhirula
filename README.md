@@ -10,12 +10,7 @@
 <a href="https://github.com/fakhirula">
   <img align="center" width="710px" src="https://streak-stats.demolab.com/?user=fakhirula&theme=default&fire=2032f7&ring=2032f7&currStreakLabel=2032f7&sideNums=2032f7&" alt="rul's streak stats"/>
   <br><br>
-  
   <img align="center" width="710px" src="https://github-profile-trophy.vercel.app/?username=fakhirula" alt="fakhirul's trophy stats"/>
-<br><br>
-  <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=fakhirula&column=6" />
-</p>
 </a>
 </div>
 
