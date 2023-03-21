@@ -18,6 +18,7 @@ Assistant Lecture of Web Programming & Digital Literacy at STT Terpadu Nurul Fik
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=fakhirula alt=fakhirula /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=fakhirula&show_icons=true&include_all_commits=true)](https://github.com/fakhirula/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhirula&layout=compact)](https://github.com/fakhirula/github-readme-stats)
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=fakhirula&show_icons=true&include_all_commits=true" height="180" alt="GitHub stats"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fakhirula&show_icons=true&include_all_commits=true" height="180" alt="Top Langs"  />
+</div>
