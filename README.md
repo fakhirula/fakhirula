@@ -1,3 +1,6 @@
+<div align="center">
+
+[![Fakhirul Akmal (rul) logo](https://avatars.githubusercontent.com/fakhirula)](https://github.com/fakhirula "Rul's logo")
 
 ## Hey 👋, This is Fakhirul Akmal
 [![Gmail Badge](https://img.shields.io/badge/-fakhirula27@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fakhirula27@gmail.com)](mailto:fakhirula27@gmail.com) 
@@ -5,7 +8,7 @@
 
 ## [Fakhirul Akmal (rul)](https://www.linkedin.com/in/fakhirul-akmal/ "Fakhirul LinkedIn")
 
-<div align="center">
+
 <a href="https://github.com/fakhirula">
   <img align="center" width="710px" src="https://github-profile-trophy.vercel.app/?username=fakhirula&column=8" alt="fakhirul's trophy stats"/>
 </a>
