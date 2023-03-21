@@ -1,14 +1,31 @@
-# Hello, I'm Rul 👋🏻
+## Hello, I'm Rul 👋🏻
 
 Linux Enthusiast | Assistant Lecture of Web Programming & Digital Literacy at STT Terpadu Nurul Fikri
 - 🔭 I’m currently studying **Software Engineering** at STT Terpadu Nurul Fikri
-- 🌱 I’m currently learning **WordPress**, **Laravel** and **React**
+- 🌱 I’m currently learning **Laravel**, **NodeJS** and **React**
 - ⚙️ Mastering: `.html`,`.css`,`.js`,`.php`
 - 👯 I’m looking to collaborate on **Open Source** projects
 - 💬 I'm mostly active within the **LinkedIn**, **Facebook** and **Instagram** communities
 
+### Languages and Tools
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" alt="css" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="Javascript" alt="javascript" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="PHP" alt="php" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="tailwind" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="bootstrap" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="laravel" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" title="Node JS" alt="node" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="react" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" title="MySQL" alt="mysql" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="mongo" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="linux" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="windows" width="40" height="40" />
+    <!-- <img src="" title="" alt="" width="40" height="40" /> -->
+</p>
 
-## Some of my Github Stats
+### Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=fakhirula alt=fakhirula /> </p>
 
 <div align="left">
