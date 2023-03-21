@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/fakhirula?size=180" alt="Fakhirul Akmal (rul) logo">
-</p>
-<h1 align="center"><a href="https://www.linkedin.com/in/fakhirul-akmal/">Fakhirul Akmal (Rul)</a></h1>
+# Hello, I'm Rul 👋🏻
 
 Linux Enthusiast | Assistant Lecture of Web Programming & Digital Literacy at STT Terpadu Nurul Fikri
 - 🔭 I’m currently studying **Software Engineering** at STT Terpadu Nurul Fikri
