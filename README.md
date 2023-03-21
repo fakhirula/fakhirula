@@ -12,9 +12,10 @@
   <br><br>
   
   <img align="center" width="710px" src="https://github-profile-trophy.vercel.app/?username=fakhirula" alt="fakhirul's trophy stats"/>
+<br><br>
+  <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </a>
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=fakhirula)](https://github.com/fakhirula/github-profile-trophy)
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=fakhirula alt=fakhirula /> </p>
