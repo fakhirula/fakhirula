@@ -1,7 +1,8 @@
-<center>
-[![Fakhirul Akmal (rul) logo](https://avatars.githubusercontent.com/fakhirula?size=200)](https://github.com/fakhirula "Rul's logo")
-## [Fakhirul Akmal (rul)](https://www.linkedin.com/in/fakhirul-akmal/ "Fakhirul LinkedIn")
-</center>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/fakhirula?size=200" alt="Fakhirul Akmal (rul) logo">
+</p>
+<h1 align="center"><a href="https://www.linkedin.com/in/fakhirul-akmal/">Fakhirul Akmal (Rul)</a></h1>
+
 
 Assistant Lecture of Web Programming & Digital Literacy at STT Terpadu Nurul Fikri | Linux Enthusiast
 - 🔭 I’m currently studying **Software Engineering** at STT Terpadu Nurul Fikri
