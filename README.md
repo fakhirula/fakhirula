@@ -6,8 +6,16 @@ Linux Enthusiast | Assistant Lecture of Web Programming & Digital Literacy at ST
 - ⚙️ Mastering: `.html`,`.css`,`.js`,`.php`
 - 👯 I’m looking to collaborate on **Open Source** projects
 - 💬 I'm mostly active within the **LinkedIn**, **Facebook** and **Instagram** communities
+<br>
+<div align="center">
+    
+## Fly Me to The Moon
+[![fakhirul Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=fff)](https://facebook.com/rul.haxor "Fakhirul's on Facebook")
+[![fakhirul Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=fff)](https://instagram.com/fakhirula "Fakhirul's on Instagram")
+<p align=center> <img src=https://komarev.com/ghpvc/?username=fakhirula&style=flat-square&color=green alt=fakhirula /> </p>
+<br>
 
-### Languages and Tools
+## Languages and Tools
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" alt="css" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="Javascript" alt="javascript" width="40" height="40" />
@@ -40,15 +48,14 @@ Linux Enthusiast | Assistant Lecture of Web Programming & Digital Literacy at ST
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" />
 </p>
+<br>
 
-### Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=fakhirula alt=fakhirula /> </p>
-
-<div align="left">
+## Some of my Github Stats
+    
   <img src="https://github-readme-stats.vercel.app/api?username=fakhirula&show_icons=true&include_all_commits=true" height="180" alt="GitHub stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhirula&layout=compact" height="180" alt="Top Langs"  />
-</div>
-<br>
+<br><br>
 <a href="https://github.com/fakhirula">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=fakhirula&column=-1" alt="fakhirul's trophy stats"/>
 </a>
+</div>
