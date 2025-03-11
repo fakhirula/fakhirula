@@ -1,9 +1,6 @@
 ## Hello, I'm Rul 👋🏻
 
-Linux Enthusiast | Assistant Lecture of Web Programming & Digital Literacy at STT Terpadu Nurul Fikri
-- 🔭 I’m currently studying **Software Engineering** at STT Terpadu Nurul Fikri
-- 🌱 I’m currently learning **Laravel**, **NodeJS** and **React**
-- ⚙️ Mastering: `.html`,`.css`,`.js`,`.php`
+Linux Enthusiast | Assistant Lecturers, Teachers, and Practitioners in the Field of Information Systems/Technology
 - 👯 I’m looking to collaborate on **Open Source** projects
 - 💬 I'm mostly active within the **LinkedIn**, **Facebook** and **Instagram** communities
 <br>
