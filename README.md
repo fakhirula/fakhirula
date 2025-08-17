@@ -1,53 +1,89 @@
-## Hello, I'm Rul 👋🏻
+# Fakhirul | Portfolio
 
-Linux Enthusiast | Assistant Lecturers, Teachers, and Practitioners in the Field of Information Systems/Technology
-- 👯 I’m looking to collaborate on **Open Source** projects
-- 💬 I'm mostly active within the **LinkedIn**, **Facebook** and **Instagram** communities
-<br>
+## About Me 👋
+
+Fresh graduate with a Bachelor's degree in Computer Science, experienced in website development through learning projects and independent practice. Familiar with modern tools and frameworks such as React, Laravel, REST API, Scrum, Agile, and Tailwind CSS in building responsive and functional web applications. Interested in developing efficient and user-friendly systems, and actively following web technology developments to continuously improve the quality of work.
+
 <div align="center">
-    
-## Fly Me to The Moon
-[![fakhirul LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/fakhirul-akmal/ "Fakhirul's on LinkedIn")
-[![fakhirul Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=fff)](https://facebook.com/rul.haxor "Fakhirul's on Facebook")
-[![fakhirul Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=fff)](https://instagram.com/fakhirula "Fakhirul's on Instagram")
-<p align=center> <img src=https://komarev.com/ghpvc/?username=fakhirula&style=flat-square&color=green alt=fakhirula /> </p>
-<br>
-    
-## Used Technologies
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" alt="css" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="Javascript" alt="javascript" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="PHP" alt="php" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="wordpress" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="tailwind" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="bootstrap" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" title="Codeigniter" alt="codeigniter" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="laravel" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React JS" alt="react" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" title="MySQL" alt="mysql" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT" alt="git" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="Markdown" alt="markdown" width="40" height="40" />
-</p><br>
-    
-## Platforms & Tools
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="inkscape" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" title="GIMP" alt="gimp" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" alt="canva" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="photoshop" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title="Trello" alt="trello" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="vscode" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" title="Fedora" alt="fedora" width="40" height="40" />
-</p>
-<br>
-
-## Some of my Github Stats
-    
-  <img src="https://github-readme-stats.vercel.app/api?username=fakhirula&show_icons=true&include_all_commits=true" height="180" alt="GitHub stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhirula&layout=compact" height="180" alt="Top Langs"  />
-<br><br>
-<a href="https://github.com/fakhirula">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=fakhirula&column=-1" alt="fakhirul's trophy stats"/>
-</a>
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fakhirula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fakhirul-akmal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fakhirul.dev@gmail.com)
+<p> <img src=https://komarev.com/ghpvc/?username=fakhirula&style=flat-square&color=green alt=fakhirula /> </p>
 </div>
+
+---
+
+## 🚀 Projects
+
+### zeromaterial
+*Technologies used: React, Laravel, REST API, Tailwind CSS, Material Tailwind*
+
+A community-based web application that focuses on environmental sustainability, climate awareness, and collaborative campaigns. The platform allows users to join and support eco-friendly initiatives.
+
+- Developed frontend user pages using React integrated with Tailwind CSS and Material Tailwind
+- Built and consumed REST API from Laravel backend for campaigns, donations, and user data
+- Implemented user authentication and authorization with JWT
+- Designed responsive and accessible UI for better user engagement
+
+[View Project](https://github.com/fakhirula/zeromaterial) | [Live Demo](https://zeromaterial.vercel.app/)
+
+### Geographic Information System Bali
+*Technologies used: React, Laravel, REST API, Shadcn UI, Leaflet.js, OpenStreetMap*
+
+A web-based geographic information system that visualizes and manages spatial data through interactive mapping. The system helps users analyze, locate, and manage geographic information efficiently.
+
+- Integrated Leaflet.js with OpenStreetMap to provide interactive map visualization
+- Built backend with Laravel to manage spatial and attribute data
+- Designed responsive and user-friendly interface with Tailwind CSS
+- Implemented CRUD operations for managing location-based datasets
+- Enabled search and filter features for easy data exploration
+
+[View Project](https://github.com/SIG-STT-NF) | [Live Demo](https://sig.ramafajar.com/)
+
+### EcoScan: Capstone Project
+*Technologies used: Kotlin, ExpressJS, REST API, Google Cloud*
+
+A mobile application that helps users scan and identify environmentally friendly products and materials. The system promotes sustainable lifestyle by providing product information, environmental impact, and alternatives.
+
+- Developed responsive user interface with Kotlin
+- Built REST API backend with ExpressJS for product data and sustainability metrics
+- Implemented search and filter functionality for easy product identification
+- Integrated authentication with JWT for secure user access
+- Designed database schema to store product categories, materials, and eco-ratings
+
+[View Project](https://github.com/fakhirula/ecoscan-capstone)
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science**  
+*Sekolah Tinggi Teknologi Terpadu Nurul Fikri, 2021 - 2025
+- GPA: 3.92/4.0
+- Relevant Coursework: Software Engineering, Project Management, UIUX, Data Structures & Algorithms, Database Management Systems, Computer Networks, Operating Systems
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+| **Languages** | **Frameworks & Libraries** | **Tools & Platforms** |
+|---------------|----------------------------|-----------------------|
+| PHP           | React                      | Git & GitHub          |
+| JavaScript    | ExpressJS                  | Linux                 |
+| Python        | Laravel                    | Google Cloud Platform |
+| SQL           | Filament                   | VS Code               |
+
+</div>
+
+---
+
+## 📚 Certifications
+
+- **Generative AI Explorer** - Credential, ID: 10810416 (August 2024)
+- **Google IT Support** - Credential, ID: 2QEFU2RZ34CM (November 2023)
+- **Microsoft Office Profesional** - NF Computer (January 2022)
+
+---
